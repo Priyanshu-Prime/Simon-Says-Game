@@ -24,7 +24,7 @@ Create a Simon Says game using HTML, CSS, and JavaScript. The game should have a
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Priyanshu-Prime/Simon-Says-Game)
-- Live Site URL: [Recipe WebPage](https://priyanshu-prime.github.io/Simon-Says-Game/)
+- Live Site URL: [Game WebPage](https://priyanshu-prime.github.io/Simon-Says-Game/)
 
 ## My process
 
